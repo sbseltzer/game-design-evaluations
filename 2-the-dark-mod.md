@@ -10,8 +10,8 @@ Open source fan-game implementation of Thief, an immersive sim.
 
 # Bad
 
-1. The AI kinda sucked and was way too sensitive/unforgiving. God save you if someone spotted you once - they'd never let it go unless you outran them which was hard with the size of the maps.
-2. Bad feedback. It wasn't totally clear what was loot, and it also wasn't obvious what could be picked up. Most things that seemed interactive were not. Doors should make a sound when you try to use them.
+1. The AI kinda sucked and was way too sensitive/unforgiving.  God save you if someone spotted you once - they'd never let it go unless you outran them which was hard with the size of the maps.
+2. Bad feedback. It wasn't totally clear what was loot, and it also wasn't obvious what could be picked up. Most things that seemed like they *should be* interactive were not. I was hoping the homeless guy would at least grunt at me when I tried to interact. Almost nothing highlighted when you aimed at it, such as doors, NPCs, even though crates and locks did.
 3. No tutorial for controls. If I hadn't played Thief before it would have been very frustrating. Even having played it before, knowing where everything was and what to press was not obvious at first. Cues on screen as needed would have been useful.
 
 # Steal
