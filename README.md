@@ -11,10 +11,10 @@ Thanks Jeff!
 
 This is a repository of game design evaluations. I plan to do these as frequently as possible. I have a massive Steam library of games I've never installed which were likely acquired through bundles. This is a great opportunity to explore games/genres I've never cared for in a new light. I think those may be the most insightful ones to evaluate.
 
-This is the format.
+This is the format for each game.
 ```
-# Game Name
-Optional brief description
+# Title
+Brief description
 
 ## Good
 Three SPECIFIC things it did well
@@ -23,6 +23,7 @@ Three SPECIFIC things it did well
 3. C
 
 ## Bad
+Three things it did badly
 1. A
 2. B
 3. C
