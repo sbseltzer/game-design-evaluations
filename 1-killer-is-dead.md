@@ -1,8 +1,6 @@
 # Killer is Dead
 
-I chose a game I never played before for the first to evaluate. I played it for 60 minutes, though much of it was probably cutscenes.
-
-It's a pretty standard 3rd-person hack n' slash game with a strong focus on story.
+I chose a game I never played before for the first to evaluate. I played it for 60 minutes, though much of it was probably cutscenes. It's a pretty standard 3rd-person hack n' slash game with a strong focus on story.
 
 ## Good
 
