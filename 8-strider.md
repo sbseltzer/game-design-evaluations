@@ -13,3 +13,4 @@
 
 ## Steal
 
+Getting to the action quickly. It did not need a lot of explanation. I think games that get straight to the core gameplay fast are good, but I think the thing you have to be careful of is pacing - you don't want to give the player an overdose on it in the first 10 minutes. I think that may have been related to the problem I had with mission resets and how fast retries went.
