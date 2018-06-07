@@ -1,12 +1,12 @@
 # Rainbow Six Siege
-Tactical shooting excellence. I've logged 330 hours so far.
+Asymmetrical tactical shooting excellence. I've logged 330 hours so far.
 
 I've been generally averse to reviewing games I like to play a lot. They're hard to review because I've played them so much and have many good things to say. There's also something elusive about what the goods and bads are at their core. Anyway, I think for those reasons they are the most important games to evaluate. I think I will have to half-finish a lot of them and come back to them later, since they're so hard to nail down.
 
 ## Good
-1. Analytics. The developers use a comprehensive statistics implementation to balance the games. It's very in depth. Pick rates on characters, weapons, win-deltas, the works. It's crazy. And it works really well.
-2. More a tactics/strategy game than a shooting game.
-3. One thing that instantly struck me when starting out is that this game is how Cole keeps in touch with his old friends. The game had a way of keeping them together and roping in a couple of other second-degree people such as myself. I don't know if there was anything in particular about the game itself. Maybe it's how team-oriented it is. Hard to say, but I feel like it's worth stating.
+1. Analytics. The developers use a comprehensive statistics implementation to balance the games. It's very in depth. Pick rates on characters, weapons, win-deltas, the works. It's crazy. And it works really well. This isn't really a design element; it's more of a means for them.
+2. More a tactics/strategy game than a shooting game. That is, it's an information game. The teams that seem to win are the ones who know more about the current situation, particularly of the opposing team. This of course depends on the ability to leverage the information by the formation of a strategy in real time. In that sense it's an RTS-FPS, but without a defined commander. Supreme information requires supreme teamwork so they really nailed the need for cooperation. How well they facilitate that on the other hand...
+3. One thing that instantly struck me when starting out is that this game is how Cole, my friend who introduced me to this game, keeps in touch with his old friends. The game had a way of keeping them together and roping in a couple of other second-degree people such as myself. I don't know if there was anything in particular about the game itself. Maybe it's how team-oriented it is. I think there are plenty of other games he's done this with, but I feel like it's still a notable quality to fulfill as a multiplayer game.
 
 ## Bad
 1. The communication interfaces need a lot of TLC. Even if more than one person is voice chatting, it can only have one of their names show up on the screen to indicate who is talking. Also the text chat has no history (which is maybe good) and doesn't work like most text editors (ctrl-left_arrow doen't jump back by one word). Also mics cut out between phases, such as round end to character selection and vice-versa.
