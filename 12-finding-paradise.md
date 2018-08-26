@@ -14,3 +14,4 @@ Sequel to [To The Moon](04-to-the-moon.md) which I previously reviewed. This is 
 
 ## Steal
 
+It's essentially the same game, but I think the main takeaway is the 3rd Good thing. This is sorta a shallow choice to steal. One thing that's more of flavor that I loved was choices that only give you some amusing dialogue and literally nothing else. Overtly pointless. Like customizing the chartacters socks, which have some hilarious choices and are not visible at all. This is an easy and low-cost win for a game to add and spice up the experience for the player.
