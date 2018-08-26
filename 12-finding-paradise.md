@@ -1,6 +1,6 @@
 # Finding Paradise
 
-Sequel to [To The Moon](04-to-the-moon.md) which I previously reviewed. This is my first sequel I'm reviewing, I think. Mechanically this is nearly identical, so it'll be an interesting challenge. I played 45 minutes in my first session.
+Sequel to [To The Moon](04-to-the-moon.md) which I previously reviewed. This is my first sequel review, I think. Mechanically this is nearly identical, so it'll be an interesting challenge. I played 45 minutes in my first session.
 
 ## Good
 1. More of the same, particularly in terms of writing. Right off the bat I was able to choose Niel and kick a kid's toy into a pond as a sort of sick punishment for that kid doing the same to another kid. Poetic justice. It was predictable, but man was it satisfying to watch. It was the same as the last game, but better in a way. I think that's an illusion created by keeping the momentum of a sequel, but that almost deserves it's own praise. In any case, one thing that stands out is the sense of mystery this introduced regarding Niel's activity, particularly with the extra Sigmund Corp installments of the first game.
