@@ -10,7 +10,7 @@ Sequel to [To The Moon](04-to-the-moon.md) which I previously reviewed. This is 
 ## Bad
 1. More of the same, in terms of movement frustration. I think there was room for improvement as it could be more generous in assuming where you wanted to go. It's a solveable problem since there's rarely (if ever) 2 doors/transitions per surface.
 2. Changing decisions post-decision would've been nice. First instance was a sealed book. I couldn't decide to open it after I chose to leave it alone. I can see why they did this, but for indecisive explorationists it's hard to pass up changing my mind. I wish I could have conveniently changed my mind in that one case. Would've been nice to be able to customize characters at any time for fun as well.
-3. 
+3. Some of the dialogue/jokes got a bit stale, especially for minigames. A lot of re-used quips in terms of the spirit of it, and got to the point where the characters weren't even saying anything interesting. This happened in a lot of places where they skimped on flavor. Oh well. Hard to blame as it's an effort-vs-payoff for the dev. It's primarily a vessel for a story after all.
 
 ## Steal
 
