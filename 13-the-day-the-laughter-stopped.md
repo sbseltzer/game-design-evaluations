@@ -70,7 +70,7 @@ Okay ready?
 ## Bad
 1. It confronts a difficult topic head on. This can be harmful to the developer, players, and the visibility of the game, but I guess that's not really the point. It is critically acclaimed and won multiple awards, so this was a success, but it easily could have drawn fire.
 2. Some minor spelling mistakes (easy to miss though). Could benefit from a proof-read.
-3. I don't even know what to say here. This game is so simple in it's design. It's hard to come up with faults. I'll modify this later if I come up with anything.
+3. I think the background music could have been more subtle. It gave it a disturbing air, which should be a good thing for this game, but I think it had too obvious of an influence on my choices.
 
 ## Steal
 
