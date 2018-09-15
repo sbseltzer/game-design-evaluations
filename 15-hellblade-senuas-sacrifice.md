@@ -16,4 +16,4 @@ A mythical descent into madness. I played 2 hours over 2 sessions. I only made i
 
 ## Steal
 
-This is a great realization of a game that captures mental illness, trauma, and helplessness. The ruminations in particular were a pretty essential part of the experience for me. In real life they can be more nuanced than what is heard in the game, but it did a good job nonetheless. The discourage, the confuse, they mislead. As someone who has experienced what it's like, both vicariously and otherwise, I can see a lot of potential for turning that into a mechanic. I wonder if it could be done textually. It's worth exploring.
+This is a great realization of a game that captures mental illness, trauma, and helplessness. The ruminations in particular were a pretty essential part of the experience for me. In real life they can be more nuanced than what is heard in the game, but it did a good job nonetheless. They discourage, they confuse, they mislead. As someone who has experienced what it's like, both vicariously and otherwise, I can see a lot of potential for turning that into a mechanic. I wonder if it could be done textually. It's worth exploring.
