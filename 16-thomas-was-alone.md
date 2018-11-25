@@ -1,6 +1,8 @@
 # Thomas Was Alone
 
-A minimalistic platformer/puzzler about friendship. First session was 65 minutes. Second session put me at roughly 2 hours. This is a hard critique one to write since it has so many good things to take note of, and so few things I didn't like. Then again, this is a good time to point out that this exercise is not about finding what I like and don't like, but about where the game was strong and where it was weak.
+A minimalistic platformer/puzzler about friendship. First session was 65 minutes. Second session put me at roughly 2 hours. After 2 or 3 more sessions I'm at 4 hours. This is a hard critique to write since it has so many good things to take note of, and so few things I didn't like.
+
+Then again, this is a good time to point out that this exercise is not about finding what I like and don't like, but about where the game was strong and where it was weak.
 
 Spoilers await...
 
@@ -17,5 +19,7 @@ Spoilers await...
 ## Steal
 
 You know, this is a rough one, but I think the thing that really made this shine to me was the level of polish. There was clearly a lot of testing that went into tweaking levels, mechanic introduction, and production hacks to the graphics. What it taught me is you can make up for minimalism with lots of simple visual polish and some relateable characters who develop in a sort of story sprinkled across each level. The other thing that story did was motivated me to push through levels where I felt like quitting out of frustration. I got attached because I became invested in the relationships between each character. I wonder if this could also be done in a fast paced action game.
+
+Honorable mention: This game is FULL of surprises. Most of the topics covered in the review were visible within the first hour, but there were some things that really set this game apart after 3 more hours of gameplay. The game keeps changing in pretty substantial ways and I think that's part of what keeps me coming back. Finishing the whole story is a lot less cumbersome feeling when you feel reassured with every session that there's going to be something new waiting for you. For example, after the first arc with the scary pixel cloud is over and with me thinking the game was just about over, a new character is introduced whose gravity is reversed. This totally shifts the game paradigm in the simplest of ways AND now there's more story? Surprise! It's mechanically a platformer anthology! Even after the main plot arc completes, there are several smaller arcs that use the first one as a launch pad, a whole new cast of characters, and repurposed forms of all the previous abilities by making them available to any character if you passed through a corresponding color zone. Surprise! This game is suddenly twice as long after already being twice as long as it first seemed! It's at least 4x longer than I expected it to be.
 
 I think what I learned is that a story can be simple and vague, but still deliver a rich narrative experience by focusing solely on relationships and interactions. The world it takes place in is vague and not terribly interesting, the plot is simple and unsurprising, but the characters can fill that void by being colorful and amusing.
