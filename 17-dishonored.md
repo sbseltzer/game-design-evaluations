@@ -1,0 +1,17 @@
+# Dishonored 
+
+An immersive sim stealth game that seems to be a mashup of Thief and Bioshock. I played for 5 hours over at least 3 sessions before writing this. It took at least 2 hours before I had seen all the mechanics.
+
+## Good
+1. It takes tips from both Thief and Bioshock. The combat system of Bioshock, the stealth of Thief, and RPG/storytelling strategies from both. The notes screen is stright out of Thief. The abilities/upgrade system and dual-weapon FPS style screams Bioshock. Telling a story using a combination of scripted events and text scattered throughout was great.
+2. Important things are hard to miss. Particularly useful items (such as keys) have many places you can come by them so you're likely to have them when needed. Important worldbuilding/storytelling text (like the one on rat breeding and the plague) can be found in many places as well. This can backfire somewhat because it's easy to see through and shatters the illusion of "I found it in just the right place" for people who scour a map, so that's one downside.
+3. Level design prioritizes multiple pathways, and encourages experimentation. Often there are ways under, over, and through areas that are populated with enemies. It's really satisfying to try out different approaches. I could dedicate a lot of time picking apart the levels and what makes them tick.
+
+## Bad
+1. Most of the time, being stealthy doesn't matter, but I'm still compelled to play like it does. Most situations can be solved by a bloodbath, and in this game it's really easy to make that a reality. Killing people is way too easy. On one hand, it's nice because it's often possible to make a narrow escape. It's not very satisfying though. I never feel "good" about that. I often load my previous save anyway "because stealth". It lacks consequence and breaks immersion.
+2. Some of the sound effects seem like a straight rip from Bioshock/Thief. In some cases this is somewhat tasteful, but in others it outright breaks immersion. The ratchet sound is reused a lot and it reminded me so much of the hacking screen in Bioshock that it totally distracts from whatever feeling it was meant to invoke. In another case the "reading view" screen sounds just like the one from Thief (particularly Deadly Shadows). That invoked a sort of nostalgia that was good, probably because it was used for the same purpose, so I didn't notice it quite as quickly. Still breaks immersion somewhat. So yeah, if you're going to reuse sound effects, or do similar sounding ones to those of an inspiration, be mindful of the players who played those games and what's first to run through their head.
+3. Unintuitive controls. Particularly relating to combat. I got used to left click controlling right hand and vice versa, but it was a very sloppy transition.
+
+## Steal
+
+I think the thing that strikes me as an easy win is making the important stuff hard to miss. I don't think the scope of a game I make to be quite on the level that it is in this game, but anytime a game has more than one way of solving a problem, making sure the important things that offer gameplay/experiential utility are readily available along the way creates equal opportunity.
