@@ -32,6 +32,10 @@ Three things it did badly
 One design element
 ```
 
+## Important Distinction
+
+It's easy for these to turn into a general game review where you talk about what you liked and didn't like about the game. DON'T SIMPLY DO THAT. The point is to, as objectively as you can, disect what worked and what didn't work about the game. What makes it tick? Where did it shine? Where were the rough spots? It's fine to make it about personal taste if it's framed in terms of design strengths/weaknesses, but at face value those types of observations have less value as a design exercise.
+
 # Why?
 
 I saw Jeff Vogel at GDC 2018 and [his presentation](https://www.youtube.com/watch?v=stxVBJem3Rs) inspired me to redirect my focus at honing my design skills again. Early on in life I spent a lot of time playing, imagining, experimenting, and prototyping before I even knew what that was. Doubling down on programming for years and allowing my creative skills to slip is one of my greatest regrets. I played and made fewer actual games during that time. I got pretty darn good at making tools and engine features, but after all that I had little creative growth to show for it. I consider this to be a sort of catch-up work.
