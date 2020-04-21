@@ -15,6 +15,7 @@ This is the format for each game.
 ```
 # Title
 Brief description
+Note hours played if it seems relevant
 
 ## Good
 Three SPECIFIC things it did well
@@ -30,6 +31,9 @@ Three things it did badly
 
 ## Steal
 One design element
+
+## Extra
+This segment is optional. Extra notes and gushing analysis goes here.
 ```
 
 ## Important Distinction
